@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 const spawn = require('cross-spawn')
 
 // These are the commands suggested by GitHub to rename a repo
