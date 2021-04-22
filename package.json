@@ -1,6 +1,6 @@
 {
   "name": "remained",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A tiny tool to do all the _local_ steps GitHub tells you to do once you've change your default branch name from `master` to `main`.",
   "main": "index.js",
   "scripts": {
