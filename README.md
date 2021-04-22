@@ -14,7 +14,7 @@ npx remained
 
 ## What does remained do?
 
-Remained just runs the following commmands:
+Remained runs the following commmands, which are the same commands that GitHub tells you to run when you rename your default branch:
 
 ```sh
 git branch -m master main
