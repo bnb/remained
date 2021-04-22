@@ -1,16 +1,27 @@
 {
-  "name": "mainify",
+  "name": "remained",
   "version": "0.0.1",
-  "description": "",
+  "description": "A tiny tool to do all the _local_ steps GitHub tells you to do once you've change your default branch name from `master` to `main`.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": "index.js",
+  "bin": {
+    "remained": "index.js"
+  },
   "keywords": [],
   "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im/)",
   "license": "MIT",
   "dependencies": {
     "cross-spawn": "^7.0.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnb/mainify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bnb/mainify/issues"
+  },
+  "homepage": "https://github.com/bnb/mainify#readme"
 }
